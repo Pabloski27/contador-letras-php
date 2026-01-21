@@ -20,5 +20,5 @@ Es un pequeño proyecto de clase en PHP que pide al usuario una frase y una letr
 **Clonar el repositorio** 
 
 ```bash
-git clone https://github.com/usuario/contador-letras-php.git
+git clone https://github.com/Pabloski27/contador-letras-php.git
 cd contador-letras-php
